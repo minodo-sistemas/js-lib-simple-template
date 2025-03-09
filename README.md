@@ -21,6 +21,9 @@ pnpm add username/repository
 ## Desenvolvimento
 
 ```sh
+# Configurar git hooks
+pnpm dlx lefthook install
+
 # Limpar outputs
 pnpm run clean
 
